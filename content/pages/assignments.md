@@ -7,12 +7,72 @@ uid: 56f40683-da29-37b9-53e1-804cc7a990f9
 Exercises
 ---------
 
-| ASSN # | TOPICS | QUESTIONS |
-| --- | --- | --- |
-| 1 | Pragmatics and implicatures | What implicatures is the second sentence of (38) predicted to have by the Neo-Gricean account we've outlined? (See "Pragmatics and implicatures" lecture note) |
-| 2 | Chierchia's Puzzle and Sauerland's account | Prove that the Sauerland-Exhaustivity Generalization is indeed predicted by Sauerland's theory. Solution ([PDF]({{< baseurl >}}/resources/mit24_954s10_hw2_sol)) |
-| 3 | Economy and embedded exhaustification | Sauerland's system and the exhaustivity operator ([PDF]({{< baseurl >}}/resources/mit24_954s10_hw3)) |
-| 4 | Presuppositions; introductory comments | Construct lexical entries for _or_ and _if then_, guided by the Strong Kleene and the Peters intuition as it was stated in the lecture notes. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSN #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+QUESTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Pragmatics and implicatures
+{{< tdclose >}}
+{{< tdopen >}}
+What implicatures is the second sentence of (38) predicted to have by the Neo-Gricean account we've outlined? (See "Pragmatics and implicatures" lecture note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Chierchia's Puzzle and Sauerland's account
+{{< tdclose >}}
+{{< tdopen >}}
+Prove that the Sauerland-Exhaustivity Generalization is indeed predicted by Sauerland's theory. Solution ([PDF]({{< baseurl >}}/resources/mit24_954s10_hw2_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Economy and embedded exhaustification
+{{< tdclose >}}
+{{< tdopen >}}
+Sauerland's system and the exhaustivity operator ([PDF]({{< baseurl >}}/resources/mit24_954s10_hw3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Presuppositions; introductory comments
+{{< tdclose >}}
+{{< tdopen >}}
+Construct lexical entries for _or_ and _if then_, guided by the Strong Kleene and the Peters intuition as it was stated in the lecture notes.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Squib
 -----
