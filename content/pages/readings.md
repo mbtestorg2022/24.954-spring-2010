@@ -16,18 +16,18 @@ Sauerland, Uri. "Scalar Implicatures in Complex Sentences." _Linguistics and Phi
 Free Choice Disjunction And Implicatures
 ----------------------------------------
 
-Klinedinst, Nathan Winter. _Plurality and Possibility_. Ph.D dissertation in linguistics. Los Angeles, CA: University of California Los Angeles, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://linguistics.ucla.edu/general/dissertations/Klinedinst.2007.pdf))
+Klinedinst, Nathan Winter. _Plurality and Possibility_. Ph.D dissertation in linguistics. Los Angeles, CA: University of California Los Angeles, 2007. ([PDF](https://linguistics.ucla.edu/general/dissertations/Klinedinst.2007.pdf))
 
-Fox, Danny. "Free Choice and the Theory of Scalar Implicatures." Cambridge, MA: MIT Department of Philosophy and Linguistics, 2006. Draft paper. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/linguistics/people/faculty/fox/free_choice.pdf))
+Fox, Danny. "Free Choice and the Theory of Scalar Implicatures." Cambridge, MA: MIT Department of Philosophy and Linguistics, 2006. Draft paper. ([PDF](http://web.mit.edu/linguistics/people/faculty/fox/free_choice.pdf))
 
 Modularity And Embedded Implicatures
 ------------------------------------
 
-Fox, Danny, and Martin Hackl. "The Universal Density of Measurement." Cambridge, MA: MIT, and Pomona College, 2006. Draft paper to appear in _Linguistics and Philosophy_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/linguistics/people/faculty/fox/UDM_revised.pdf))
+Fox, Danny, and Martin Hackl. "The Universal Density of Measurement." Cambridge, MA: MIT, and Pomona College, 2006. Draft paper to appear in _Linguistics and Philosophy_. ([PDF](http://web.mit.edu/linguistics/people/faculty/fox/UDM_revised.pdf))
 
 Magri, Giorgio. "A Theory of Individual-level Predicates Based on Blind Mandatory Scalar Implicatures." _National Language Semantics_ 17 (2009): 245–297.
 
-———. _A Theory of Individual-level Predicates Based on Blind Mandatory Scalar Implicatures_. Ph.D dissertation in linguistics. Cambridge, MA: MIT Department of Philosophy and Linguistics, 2010. Read Part I. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://link.springer.com/article/10.1007/s11050-009-9042-x))
+———. _A Theory of Individual-level Predicates Based on Blind Mandatory Scalar Implicatures_. Ph.D dissertation in linguistics. Cambridge, MA: MIT Department of Philosophy and Linguistics, 2010. Read Part I. ([PDF](https://link.springer.com/article/10.1007/s11050-009-9042-x))
 
 Implicatures: On The Nature Of Alternatives
 -------------------------------------------
@@ -36,7 +36,7 @@ Matsumoto, Yo. "The Conversational Condition on Horn Scales." _Linguistics and P
 
 Katzir, Roni. "[Structurally-Defined Alternatives](https://link.springer.com/article/10.1007/s10988-008-9029-y)." _Linguistics and Philosophy_ 30 (2007): 669–690.
 
-Fox, Danny, and Roni Katzir. "On the Characterization of Alternatives." Cambridge, MA: MIT Department of Linguistics and Philosophy, 2009. Draft paper. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/linguistics/people/faculty/fox/FoxKatzir.pdf))
+Fox, Danny, and Roni Katzir. "On the Characterization of Alternatives." Cambridge, MA: MIT Department of Linguistics and Philosophy, 2009. Draft paper. ([PDF](http://web.mit.edu/linguistics/people/faculty/fox/FoxKatzir.pdf))
 
 Presuppositions
 ---------------
@@ -45,6 +45,6 @@ Peters, Stanley. "[A Truth-Conditional Formulation of Karttunen's Account of Pre
 
 Heim, Irene. "On the Projection Problem for Presuppositions." Pp. 114-125 in _Proceedings of the Second West Coast Conference on Formal Linguistics_. Edited by Michael Barlow, Daniel P. Flickinger, and Michael T. Wescoat. Stanford, CA: Stanford University, Stanford Linguistics Association, 1983.
 
-———. "Presupposition Projection." Included in _Presupposition, Lexical Meaning and Discourse Processes: Workshop Reader_. Edited by R. van der Sandt. Nijmegen, The Netherlands: University of Nijmegen, 1990. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://semanticsarchive.net/Archive/GFiMGNjN/Presupp%20projection%2090.pdf))
+———. "Presupposition Projection." Included in _Presupposition, Lexical Meaning and Discourse Processes: Workshop Reader_. Edited by R. van der Sandt. Nijmegen, The Netherlands: University of Nijmegen, 1990. ([PDF](http://semanticsarchive.net/Archive/GFiMGNjN/Presupp%20projection%2090.pdf))
 
 Schlenker, Philippe. "Be Articulate: A Pragmatic Theory of Presupposition Projection." _Theoretical Linguistics_ 34, no. 3 (2008): 157-212.
